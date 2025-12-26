@@ -1,6 +1,6 @@
-# The Augustines in 2025!
+# Here's a look at 2025...
 
-2025 was full of unforgettable milestones! We planned our wedding and tied the knot on May 10th, moved into our College Station apartment, and have loved our first months married. Emma is finishing her last year of Physical Therapy school, and Logan is wrapping up the Fellows Program—making this year one we’ll always remember.
+This year was full of unforgettable memories! We planned our wedding and tied the knot on May 10th, moved into our College Station apartment, and have loved our first months of marraige. Emma is finishing her last year of Physical Therapy school, and Logan is wrapping up the Fellows Program, and you can read all about it right here: 
 
 ---
 
