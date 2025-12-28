@@ -55,14 +55,14 @@ This year was full of unforgettable memories! We planned our wedding and tied th
 
 <!-- Wedding Image placeholders -->
 <div class="image grid">
-    <span class="image"><img src="/images/2025/Wedding1.jpeg" alt="photo of Logan and Emma" loading="eager" /></span>
-    <span class="image"><img src="/images/2025/Wedding2.jpeg" alt="photo of Logan and Emma" loading="eager" /></span>
-    <span class="image"><img src="/images/2025/Wedding3.jpeg" alt="photo of Logan and Emma" loading="eager" /></span>
-    <span class="image"><img src="/images/2025/Wedding4.jpg" alt="photo of Logan and Emma" loading="eager" /></span>
-    <span class="image"><img src="/images/2025/Wedding5.jpg" alt="photo of Logan and Emma" loading="eager" /></span>
-    <span class="image"><img src="/images/2025/Wedding6.jpg" alt="photo of Logan and Emma" loading="eager" /></span>
-    <span class="image"><img src="/images/2025/Wedding7.jpg" alt="photo of Logan and Emma" loading="eager" /></span>
-    <span class="image"><img src="/images/2025/Wedding8.jpg" alt="photo of Logan and Emma" loading="eager" /></span>
+    <span class="image"><img src="/images/2025/Wedding1.jpeg" alt="Wedding 1" loading="eager" /></span>
+    <span class="image"><img src="/images/2025/Wedding2.jpeg" alt="Wedding 2" loading="eager" /></span>
+    <span class="image"><img src="/images/2025/Wedding3.jpeg" alt="Wedding 3" loading="eager" /></span>
+    <span class="image"><img src="/images/2025/Wedding4.jpg" alt="Wedding 4" loading="eager" /></span>
+    <span class="image"><img src="/images/2025/Wedding5.jpg" alt="Wedding 5" loading="eager" /></span>
+    <span class="image"><img src="/images/2025/Wedding6.jpg" alt="Wedding 6" loading="eager" /></span>
+    <span class="image"><img src="/images/2025/Wedding7.jpg" alt="Wedding 7" loading="eager" /></span>
+    <span class="image"><img src="/images/2025/Wedding8.jpg" alt="Wedding 8" loading="eager" /></span>
 </div>
 ---
 
