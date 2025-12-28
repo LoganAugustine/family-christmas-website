@@ -13,7 +13,7 @@ Emma has loved PT school! Between classes, labs, and studying, she continued to 
 <div class="image grid">
     <span class="image"><img src="images/2025/Spring1.JPG" alt="photo of Logan and Emma" loading="lazy" /></span>
     <span class="image"><img src="images/2025/Spring2.jpeg" alt="photo of Logan and Emma at Easter" loading="lazy" /></span>
-    <span class="image"><img src="images/2025/Spring3.JPEG" alt="Emma and Logan at PT Prom" loading="lazy" width=10% /></span>
+    <span class="image"><img src="images/2025/Spring3.JPEG" alt="Emma and Logan at PT Prom" loading="lazy" /></span>
 </div>
 
 ---
