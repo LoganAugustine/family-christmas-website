@@ -5,10 +5,9 @@ This year was full of unforgettable memories! We planned our wedding and tied th
 ---
 
 ## January – April
-- Test guide 2
-- Engaged and planning our wedding
-- Emma: finishing her 2nd year of PT school in Round Rock
-- Logan: finishing his 1st year as Grace Bible Church College Fellow
+In the Spring, we were knee deep in wedding planning. Emma was finishing her second year of Physical Therapy school at Texas State University (Round Rock), and Logan was finishing his first year in the Fellows Program residency at Grace Bible Church (College Station). Long distance was tough, but we worked hard during the day and prepared for the wedding at night, taking every opportunity to travel the distance and see each other. 
+
+Emma has loved PT school! Between classes, labs, and studying, she continued to grow in her skills and passion for helping others. It was a challenging year, but also one full of progress and accomplishments. Meanwhile, Logan completed his first year as a College Fellow at Grace Bible Church. From mentoring students to leading Bible studies, it was a year of growth, learning, and deepening relationships with college students. 
 
 <!-- Image placeholders -->
 <div class="image grid">
