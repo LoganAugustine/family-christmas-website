@@ -40,11 +40,11 @@ This year was full of unforgettable memories! We planned our wedding and tied th
 
 <!-- Image placeholders -->
 <div class="image grid">
-    <span class="image"><img src="/images/2025/Fall1.jpeg" alt="photo of Logan and Emma" loading="eager" /></span>
-    <span class="image"><img src="/images/2025/PT1.jpeg" alt="photo of Logan and Emma at PT prom" loading="lazy" /></span>
-    <span class="image"><img src="/images/2025/Fellows1.jpg" alt="Emma and Logan at Easter" loading="lazy" /></span>
-    <span class="image"><img src="/images/2025/Fellows2.jpg" alt="Emma and Logan at Easter" loading="lazy" /></span>
-    <span class="image"><img src="/images/2025/Fellows3.jpeg" alt="Emma and Logan at Easter" loading="lazy" /></span>
+    <span class="image"><img src="/images/2025/Fall1.jpeg" alt="Augustine and Slater family" loading="eager" /></span>
+    <span class="image"><img src="/images/2025/PT1.jpeg" alt="Emma on first day of clinicals" loading="lazy" /></span>
+    <span class="image"><img src="/images/2025/Fellows1.jpg" alt="Logan's Fellows Class" loading="lazy" /></span>
+    <span class="image"><img src="/images/2025/Fellows2.jpg" alt="Logan in Slovakia" loading="lazy" /></span>
+    <span class="image"><img src="/images/2025/Fellows3.jpeg" alt="AND College Team" loading="lazy" /></span>
 </div>
 ---
 
@@ -70,9 +70,4 @@ This year was full of unforgettable memories! We planned our wedding and tied th
 - Goals for 2026
 - What we’re excited about as a couple
 - Any upcoming plans (school, work, travel)
-
-<!-- Image placeholders -->
-<img src="images/future-1.jpg" alt="Looking Ahead photo 1" width="300">
-<img src="images/future-2.jpg" alt="Looking Ahead photo 2" width="300">
-<img src="images/future-3.jpg" alt="Looking Ahead photo 3" width="300">
 
