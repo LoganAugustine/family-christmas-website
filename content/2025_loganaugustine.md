@@ -11,9 +11,8 @@ This year was full of unforgettable memories! We planned our wedding and tied th
 
 <!-- Image placeholders -->
 <span class="image"><img src="/images/2025/Spring1" alt="photo of Logan and Emma" loading="lazy" /></span>
-<img src="images/jan-apr-1.jpg" alt="Spring2.JPG" width="300">
-<img src="images/jan-apr-2.jpg" alt="January-April photo 2" width="300">
-<img src="images/jan-apr-3.jpg" alt="January-April photo 3" width="300">
+<span class="image"><img src="/images/2025/Spring2" alt="photo of Logan and Emma at PT prom" loading="lazy" /></span>
+<span class="image"><img src="/images/2025/Spring3" alt="Emma and Logan at Easter" loading="lazy" /></span>
 
 ---
 
