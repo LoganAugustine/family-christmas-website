@@ -13,7 +13,8 @@ In the Spring, we were knee deep in wedding planning. Emma was finishing her sec
   <img src="images/2025/Spring1.JPG" alt="photo of Logan and Emma" loading="lazy" style="width:70%; height:auto;" />
 </span>
 <span class="image">
-    <img src="images/2025/Spring2.jpeg" alt="photo of Logan and Emma at Easter" loading="lazy style=" width:70%; height:auto;" /></span>
+    <img src="images/2025/Spring2.jpeg" alt="photo of Logan and Emma at Easter" loading="lazy" style="width:70%; height:auto;" />
+</span>
 
 Emma has loved PT school! Between classes, labs, and studying, she continued to grow in her skills and passion for helping others. It was a challenging year, but also one full of progress and accomplishments. Meanwhile, Logan completed his first year as a College Fellow at Grace Bible Church. From mentoring students to leading Bible studies, it was a year of growth, learning, and deepening relationships with college students. 
 
@@ -27,16 +28,16 @@ Emma has loved PT school! Between classes, labs, and studying, she continued to 
 ## Summer
 We celebrated our wedding on May 10th! It was absolutely amazing, and we felt so blessed to get to celebrate with friends and family. 
 
-<div class="image grid">
-    <span class="image"><img src="images/2025/Wedding1.jpg" alt="Wedding 1" loading="eager" /></span>
-    <span class="image"><img src="images/2025/Wedding2.jpg" alt="Wedding 2" loading="eager" /></span>
-    <span class="image"><img src="images/2025/Wedding3.jpg" alt="Wedding 3" loading="eager" /></span>
-    <span class="image"><img src="images/2025/Wedding4.jpg" alt="Wedding 4" loading="eager" /></span>
-    <span class="image"><img src="images/2025/Wedding5.jpg" alt="Wedding 5" loading="eager" /></span>
-    <span class="image"><img src="images/2025/Wedding6.jpeg" alt="Wedding 6" loading="eager" /></span>
-    <span class="image"><img src="images/2025/Wedding7.jpeg" alt="Wedding 7" loading="eager" /></span>
-    <span class="image"><img src="images/2025/Wedding8.jpeg" alt="Wedding 8" loading="eager" /></span>
-</div>
+
+<span class="image"><img src="images/2025/Wedding1.jpg" alt="Wedding 1" loading="lazy" style="width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Wedding2.jpg" alt="Wedding 2" loading="lazy" style="width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Wedding3.jpg" alt="Wedding 3" loading="lazy" style="width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Wedding4.jpg" alt="Wedding 4" loading="lazy" style="width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Wedding5.jpg" alt="Wedding 5" loading="lazy" style="width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Wedding6.jpeg" alt="Wedding 6" loading="lazy" style="width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Wedding7.jpeg" alt="Wedding 7" loading="lazy" style="width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Wedding8.jpeg" alt="Wedding 8" loading="lazy" style="width:70%; height:auto;" /></span>
+
 
 ---
 
@@ -44,11 +45,11 @@ We celebrated our wedding on May 10th! It was absolutely amazing, and we felt so
 We honeymooned in Lisbon, Portugal, explored the beautiful city, ate incredible foods, and loved our first week being married! 
 
 <div class="image grid">
-    <span class="image"><img src="images/2025/HM1.jpg" alt="Honeymoon1" loading="eager" /></span>
-    <span class="image"><img src="images/2025/HM2.jpg" alt="Honeymoon2" loading="eager" /></span>
-    <span class="image"><img src="images/2025/HM3.jpg" alt="Honeymoon3" loading="eager" /></span>
-    <span class="image"><img src="images/2025/HM4.jpeg" alt="Honeymoon4" loading="eager" /></span>
-    <span class="image"><img src="images/2025/HM5.jpeg" alt="Honeymoon5" loading="eager" /></span>
+    <span class="image"><img src="images/2025/HM1.jpg" alt="Honeymoon1" loading="lazy" /></span>
+    <span class="image"><img src="images/2025/HM2.jpg" alt="Honeymoon2" loading="lazy" /></span>
+    <span class="image"><img src="images/2025/HM3.jpg" alt="Honeymoon3" loading="lazy" /></span>
+    <span class="image"><img src="images/2025/HM4.jpeg" alt="Honeymoon4" loading="lazy" /></span>
+    <span class="image"><img src="images/2025/HM5.jpeg" alt="Honeymoon5" loading="lazy" /></span>
 </div>
 ---
 
@@ -73,18 +74,12 @@ Also, Logan has been working on his Masters of Theology at Dallas Theological Se
 
 <!-- Image placeholders -->
 <div class="image grid">
-    <span class="image"><img src="images/2025/Fall1.jpeg" alt="Augustine and Slater family" loading="eager" /></span>
+    <span class="image"><img src="images/2025/Fall1.jpeg" alt="Augustine and Slater family" loading="lazy" /></span>
     <span class="image"><img src="images/2025/Fall2.jpg" alt="Fellows class" loading="lazy" /></span>
     <span class="image"><img src="images/2025/Fall4.jpeg" alt="College Staff" loading="lazy" /></span>
 </div>
+
 ---
-
-## Wedding and Honeymoon
-- Favorite moments (photos, trips, or anecdotes)
-- Funny stories or surprises from 2025
-- Any special milestones or achievements not already mentioned
-
-
 
 ## Looking Ahead
 2026 is shaping up to be a big year for us! Emma will graduate in May and take her licensure exam over the summer, right around the same time Logan finishes the Fellows Program at Grace. We’re spending this season praying about what God has next for us and trusting Him to guide our steps. Along the way, we’ll be looking for a physical therapy clinic for Emma, and Logan will continue working on his Masters. We’re excited to see how God will use all these changes to grow us, both personally and in our callings, and we can’t wait to dive into the adventures ahead!
