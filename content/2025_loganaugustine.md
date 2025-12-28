@@ -18,7 +18,7 @@ This year was full of unforgettable memories! We planned our wedding and tied th
 
 ---
 
-## May
+## May - July
 - Married on May 10th
 - Honeymoon in Lisbon
 - Moved into our apartment in College Station
@@ -33,44 +33,37 @@ This year was full of unforgettable memories! We planned our wedding and tied th
 
 ---
 
-## June – August
-- First months married in College Station
-- Summer in a college town
-- Emma: first of four PT clinicals
-- Logan: started 2nd year of Fellows
-
-<!-- Image placeholders -->
-<div class="image grid">
-  <span class="image"><img src="/images/2025/Summer1.jpeg" alt="photo of Logan and Emma" loading="eager" /></span>
-  <span class="image"><img src="/images/2025/Summer2.jpeg" alt="photo of Logan and Emma at PT prom" loading="lazy" /></span>
-  <span class="image"><img src="/images/2025/Summer3.jpeg" alt="Emma and Logan at Easter" loading="lazy" /></span>
-  <span class="image"><img src="/images/2025/Summer4.jpeg" alt="Emma and Logan at Easter" loading="lazy" /></span>
-</div>
-
----
-
 ## August – December
 - Emma: completed 2 more clinicals (3 out of 4 done)
 - Logan: continued working with Fellows and college students at A&M
 - Logan: continued Masters in Theology at Dallas Theological Seminary
 
 <!-- Image placeholders -->
-<img src="images/aug-dec-1.jpg" alt="August-December photo 1" width="300">
-<img src="images/aug-dec-2.jpg" alt="August-December photo 2" width="300">
-<img src="images/aug-dec-3.jpg" alt="August-December photo 3" width="300">
-
+<div class="image grid">
+  <span class="image"><img src="/images/2025/Fall1.jpeg" alt="photo of Logan and Emma" loading="eager" /></span>
+  <span class="image"><img src="/images/2025/PT1.jpeg" alt="photo of Logan and Emma at PT prom" loading="lazy" /></span>
+  <span class="image"><img src="/images/2025/Fellows1.jpg" alt="Emma and Logan at Easter" loading="lazy" /></span>
+  <span class="image"><img src="/images/2025/Fellows2.jpg" alt="Emma and Logan at Easter" loading="lazy" /></span>
+  <span class="image"><img src="/images/2025/Fellows3.jpeg" alt="Emma and Logan at Easter" loading="lazy" /></span>
+</div>
 ---
 
-## Highlights & Memories
+## Wedding and Honeymoon
 - Favorite moments (photos, trips, or anecdotes)
 - Funny stories or surprises from 2025
 - Any special milestones or achievements not already mentioned
 
-<!-- Image placeholders -->
-<img src="images/highlights-1.jpg" alt="Highlight photo 1" width="300">
-<img src="images/highlights-2.jpg" alt="Highlight photo 2" width="300">
-<img src="images/highlights-3.jpg" alt="Highlight photo 3" width="300">
-
+<!-- Wedding Image placeholders -->
+<div class="image grid">
+  <span class="image"><img src="/images/2025/Wedding1.jpeg" alt="photo of Logan and Emma" loading="eager" /></span>
+  <span class="image"><img src="/images/2025/Wedding2.jpeg" alt="photo of Logan and Emma" loading="eager" /></span>
+  <span class="image"><img src="/images/2025/Wedding3.jpeg" alt="photo of Logan and Emma" loading="eager" /></span>
+  <span class="image"><img src="/images/2025/Wedding4.jpg" alt="photo of Logan and Emma" loading="eager" /></span>
+  <span class="image"><img src="/images/2025/Wedding5.jpg" alt="photo of Logan and Emma" loading="eager" /></span>
+  <span class="image"><img src="/images/2025/Wedding6.jpg" alt="photo of Logan and Emma" loading="eager" /></span>
+  <span class="image"><img src="/images/2025/Wedding7.jpg" alt="photo of Logan and Emma" loading="eager" /></span>
+  <span class="image"><img src="/images/2025/Wedding8.jpg" alt="photo of Logan and Emma" loading="eager" /></span>
+</div>
 ---
 
 ## Looking Ahead
