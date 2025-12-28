@@ -764,50 +764,32 @@ input[type="radio"]+label:before {
   font-family: "Font Awesome 5 Brands";
 }
 
-/* Image */
-
-.image {
-  border: 0;
-  display: inline-block;
-  position: relative;
+/* -----------------------------
+   Image Grid - Pinterest Style
+   ----------------------------- */
+.image.grid {
+  column-count: 3;       /* number of columns on desktop */
+  column-gap: 1rem;      /* space between columns */
 }
 
-.image img {
-  border: 4px solid #fff;
-  border-radius: 0px;
-  display: inline-block;
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
-  transition: opacity 0.2s ease-in, filter 0.2s ease-in, transform 0.2s ease-in;
-}
-
-.image img:before {
-  pointer-events: none;
-  background-image: url("../../images/overlay.png");
-  background-color: rgba(19, 21, 25, 0.5);
-  border-radius: 4px;
-  content: "";
+.image.grid img {
+  width: 100%;           /* full width of column */
+  height: auto;          /* maintain natural height */
+  margin-bottom: 1rem;   /* vertical spacing */
+  object-fit: cover;     /* optional, crops if needed */
   display: block;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
+  border: 4px solid #fff; /* keep template border */
+  border-radius: 0;      /* adjust corners if you want */
+  cursor: pointer;       /* optional hover pointer */
+  transition: transform 0.2s ease-in; /* subtle active effect */
 }
 
-.image img:hover {
-  -webkit-filter: grayscale(0%);
-  filter: grayscale(0%);
-}
-
-.image img:hover:before {
-  opacity: 0.2;
-}
-
+/* Optional: subtle zoom on click */
 .image img:active {
-  transform: scale(1.1) !important;
+  transform: scale(1.05);
 }
 
+/* Left/right floated images (optional for featured images) */
 .image.left,
 .image.right {
   max-width: 40%;
@@ -830,41 +812,39 @@ input[type="radio"]+label:before {
   top: 0.25em;
 }
 
-.image.fit {
-  display: block;
-  margin: 0 0 2rem 0;
-  width: 100%;
-}
-
-.image.fit img {
-  width: 100%;
-}
-
+/* Full-width images */
+.image.fit,
 .image.main {
   display: block;
-  margin: 2.5rem 0;
+  margin: 2rem 0;
   width: 100%;
 }
 
-.image.main img {
-  width: 100%;
+/* -----------------------------
+   Responsive Breakpoints
+   ----------------------------- */
+@media screen and (max-width: 1024px) {
+  .image.grid {
+    column-count: 2; /* 2 columns on tablet */
+  }
 }
 
 @media screen and (max-width: 736px) {
+  .image.grid {
+    column-count: 1; /* 1 column on mobile */
+  }
 
   .image.main {
     margin: 2rem 0;
   }
-
 }
 
 @media screen and (max-width: 480px) {
-
   .image.main {
     margin: 1.5rem 0;
   }
-
 }
+
 
 /* List */
 
