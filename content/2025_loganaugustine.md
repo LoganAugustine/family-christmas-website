@@ -13,8 +13,8 @@ This year was full of unforgettable memories! We planned our wedding and tied th
 <!-- Image placeholders -->
 <div class="image grid">
     <span class="image"><img src="images/2025/Spring1.JPG" alt="photo of Logan and Emma" loading="eager" /></span>
-    <span class="image"><img src="images/2025/Spring2.jpeg" alt="photo of Logan and Emma at PT prom" loading="lazy" /></span>
-    <span class="image"><img src="images/2025/Spring3.JPEG" alt="Emma and Logan at Easter" loading="lazy" /></span>
+    <span class="image"><img src="images/2025/Spring2.jpeg" alt="photo of Logan and Emma at Easter" loading="lazy" /></span>
+    <span class="image"><img src="images/2025/Spring3.JPEG" alt="Emma and Logan at PT Prom" loading="lazy" /></span>
 </div>
 
 ---
@@ -27,8 +27,8 @@ This year was full of unforgettable memories! We planned our wedding and tied th
 <!-- Image placeholders -->
 <div class="image grid">
     <span class="image"><img src="images/2025/Summer1.jpeg" alt="July 4th with family" loading="lazy" /></span>
-    <span class="image"><img src="images/2025/Summer2.jpeg" alt="campus tour with Cam and Angela" loading="lazy" /></span>
-    <span class="image"><img src="images/2025/Summer3.jpeg" alt="crawfish broil" loading="lazy" /></span>
+    <span class="image"><img src="images/2025/Summer2.jpeg" alt="crawfish broil" loading="lazy" /></span>
+    <span class="image"><img src="images/2025/Summer3.jpeg" alt="steaks" loading="lazy" /></span>
 </div>
 
 ---
@@ -41,9 +41,9 @@ This year was full of unforgettable memories! We planned our wedding and tied th
 <!-- Image placeholders -->
 <div class="image grid">
     <span class="image"><img src="images/2025/Fall1.jpeg" alt="Augustine and Slater family" loading="eager" /></span>
-    <span class="image"><img src="images/2025/Fall2.jpg" alt="Emma on first day of clinicals" loading="lazy" /></span>
-    <span class="image"><img src="images/2025/Fall3.jpeg" alt="Logan's Fellows Class" loading="lazy" /></span>
-    <span class="image"><img src="images/2025/Fall4.jpeg" alt="Logan in Slovakia" loading="lazy" /></span>
+    <span class="image"><img src="images/2025/Fall2.jpg" alt="Fellows class" loading="lazy" /></span>
+    <span class="image"><img src="images/2025/Fall3.jpeg" alt="Emma clinicals" loading="lazy" /></span>
+    <span class="image"><img src="images/2025/Fall4.jpeg" alt="College Staff" loading="lazy" /></span>
 </div>
 ---
 
