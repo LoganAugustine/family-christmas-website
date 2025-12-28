@@ -40,9 +40,12 @@ This year was full of unforgettable memories! We planned our wedding and tied th
 - Logan: started 2nd year of Fellows
 
 <!-- Image placeholders -->
-<img src="images/jun-aug-1.jpg" alt="June-August photo 1" width="300">
-<img src="images/jun-aug-2.jpg" alt="June-August photo 2" width="300">
-<img src="images/jun-aug-3.jpg" alt="June-August photo 3" width="300">
+<div class="image grid">
+  <span class="image"><img src="/images/2025/Summer1.jpeg" alt="photo of Logan and Emma" loading="eager" /></span>
+  <span class="image"><img src="/images/2025/Summer2.jpeg" alt="photo of Logan and Emma at PT prom" loading="lazy" /></span>
+  <span class="image"><img src="/images/2025/Summer3.jpeg" alt="Emma and Logan at Easter" loading="lazy" /></span>
+  <span class="image"><img src="/images/2025/Summer4.jpeg" alt="Emma and Logan at Easter" loading="lazy" /></span>
+</div>
 
 ---
 
