@@ -72,7 +72,5 @@ Also, Logan has been working on his Masters of Theology at Dallas Theological Se
 ---
 
 ## Looking Ahead
-- Goals for 2026
-- What we’re excited about as a couple
-- Any upcoming plans (school, work, travel)
+2026 is shaping up to be a big year for us! Emma will graduate in May and take her licensure exam over the summer, right around the same time Logan finishes the Fellows Program at Grace. We’re spending this season praying about what God has next for us and trusting Him to guide our steps. Along the way, we’ll be looking for a physical therapy clinic for Emma, and Logan will continue working on his Masters. We’re excited to see how God will use all these changes to grow us, both personally and in our callings, and we can’t wait to dive into the adventures ahead!
 
