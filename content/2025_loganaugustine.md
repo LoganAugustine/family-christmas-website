@@ -20,7 +20,7 @@ Emma has loved PT school! Between classes, labs, and studying, she continued to 
 
 <!-- Image placeholders -->
 <div class="image grid">
-    <span class="image"><img src="images/2025/Spring3.JPEG" alt="Emma and Logan at PT Prom" loading="lazy" /></span>
+    <span class="image"><img src="images/2025/Spring3.JPEG" alt="Emma and Logan at PT Prom" loading="lazy" style="width:70%; height:auto;" /></span>
 </div>
 
 ---
@@ -45,11 +45,11 @@ We celebrated our wedding on May 10th! It was absolutely amazing, and we felt so
 We honeymooned in Lisbon, Portugal, explored the beautiful city, ate incredible foods, and loved our first week being married! 
 
 <div class="image grid">
-    <span class="image"><img src="images/2025/HM1.jpg" alt="Honeymoon1" loading="lazy" /></span>
-    <span class="image"><img src="images/2025/HM2.jpg" alt="Honeymoon2" loading="lazy" /></span>
-    <span class="image"><img src="images/2025/HM3.jpg" alt="Honeymoon3" loading="lazy" /></span>
-    <span class="image"><img src="images/2025/HM4.jpeg" alt="Honeymoon4" loading="lazy" /></span>
-    <span class="image"><img src="images/2025/HM5.jpeg" alt="Honeymoon5" loading="lazy" /></span>
+    <span class="image"><img src="images/2025/HM1.jpg" alt="Honeymoon1" loading="lazy" style="width:70%; height:auto;" /></span>
+    <span class="image"><img src="images/2025/HM2.jpg" alt="Honeymoon2" loading="lazy" style="width:70%; height:auto;" /></span>
+    <span class="image"><img src="images/2025/HM3.jpg" alt="Honeymoon3" loading="lazy" style="width:70%; height:auto;" /></span>
+    <span class="image"><img src="images/2025/HM4.jpeg" alt="Honeymoon4" loading="lazy" style="width:70%; height:auto;" /></span>
+    <span class="image"><img src="images/2025/HM5.jpeg" alt="Honeymoon5" loading="lazy" style="width:70%; height:auto;" /></span>
 </div>
 ---
 
@@ -59,10 +59,10 @@ We also spent time during the summer going on lake trips with our family, explor
 
 <!-- Image placeholders -->
 <div class="image grid">
-    <span class="image"><img src="images/2025/Fall3.jpeg" alt="Emma clinicals" loading="lazy" /></span>
-    <span class="image"><img src="images/2025/Summer1.jpeg" alt="July 4th with family" loading="lazy" /></span>
-    <span class="image"><img src="images/2025/Summer2.jpeg" alt="crawfish broil" loading="lazy" /></span>
-    <span class="image"><img src="images/2025/Summer3.jpeg" alt="steaks" loading="lazy" /></span>
+    <span class="image"><img src="images/2025/Fall3.jpeg" alt="Emma clinicals" loading="lazy" style="width:70%; height:auto;" /></span>
+    <span class="image"><img src="images/2025/Summer1.jpeg" alt="July 4th with family" loading="lazy" style="width:70%; height:auto;" /></span>
+    <span class="image"><img src="images/2025/Summer2.jpeg" alt="crawfish broil" loading="lazy" style="width:70%; height:auto;" /></span>
+    <span class="image"><img src="images/2025/Summer3.jpeg" alt="steaks" loading="lazy" style="width:70%; height:auto;" /></span>
 </div>
 
 ---
@@ -74,9 +74,9 @@ Also, Logan has been working on his Masters of Theology at Dallas Theological Se
 
 <!-- Image placeholders -->
 <div class="image grid">
-    <span class="image"><img src="images/2025/Fall1.jpeg" alt="Augustine and Slater family" loading="lazy" /></span>
-    <span class="image"><img src="images/2025/Fall2.jpg" alt="Fellows class" loading="lazy" /></span>
-    <span class="image"><img src="images/2025/Fall4.jpeg" alt="College Staff" loading="lazy" /></span>
+    <span class="image"><img src="images/2025/Fall1.jpeg" alt="Augustine and Slater family" loading="lazy" style="width:70%; height:auto;" /></span>
+    <span class="image"><img src="images/2025/Fall2.jpg" alt="Fellows class" loading="lazy" style="width:70%; height:auto;" /></span>
+    <span class="image"><img src="images/2025/Fall4.jpeg" alt="College Staff" loading="lazy" style="width:70%; height:auto;" /></span>
 </div>
 
 ---
