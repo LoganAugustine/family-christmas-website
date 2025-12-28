@@ -44,13 +44,13 @@ We celebrated our wedding on May 10th! It was absolutely amazing, and we felt so
 ### Lisbon, Portugal
 We honeymooned in Lisbon, Portugal, explored the beautiful city, ate incredible foods, and loved our first week being married! 
 
-<div class="image grid">
-    <span class="image"><img src="images/2025/HM1.jpg" alt="Honeymoon1" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-    <span class="image"><img src="images/2025/HM2.jpg" alt="Honeymoon2" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-    <span class="image"><img src="images/2025/HM3.jpg" alt="Honeymoon3" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-    <span class="image"><img src="images/2025/HM4.jpeg" alt="Honeymoon4" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-    <span class="image"><img src="images/2025/HM5.jpeg" alt="Honeymoon5" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-</div>
+
+<span class="image"><img src="images/2025/HM1.jpg" alt="Honeymoon1" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/HM2.jpg" alt="Honeymoon2" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/HM3.jpg" alt="Honeymoon3" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/HM4.jpeg" alt="Honeymoon4" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/HM5.jpeg" alt="Honeymoon5" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+
 ---
 
 After the wedding, we moved in to our apartment in College Station and Emma started her 3rd year. She'll do four residencies at clinics around College Station, learning and practicing therapudic skills and discovering what type of PT she wants to pursue in the future. She will finish and graduate in May 2026, and then work as a DPT. 
@@ -58,12 +58,11 @@ After the wedding, we moved in to our apartment in College Station and Emma star
 We also spent time during the summer going on lake trips with our family, exploring crawfish broils in small Texas towns, and cooking great foods!
 
 <!-- Image placeholders -->
-<div class="image grid">
-    <span class="image"><img src="images/2025/Fall3.jpeg" alt="Emma clinicals" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-    <span class="image"><img src="images/2025/Summer1.jpeg" alt="July 4th with family" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-    <span class="image"><img src="images/2025/Summer2.jpeg" alt="crawfish broil" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-    <span class="image"><img src="images/2025/Summer3.jpeg" alt="steaks" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-</div>
+<span class="image"><img src="images/2025/Fall3.jpeg" alt="Emma clinicals" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Summer1.jpeg" alt="July 4th with family" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Summer2.jpeg" alt="crawfish broil" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Summer3.jpeg" alt="steaks" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+
 
 ---
 
@@ -73,11 +72,11 @@ In August, Logan's semester came in full force with college students returning t
 Also, Logan has been working on his Masters of Theology at Dallas Theological Seminary and he's loving it! He's taking classes in Biblical studies and leadership, and he’s excited to apply what he’s learning to job and daily life.
 
 <!-- Image placeholders -->
-<div class="image grid">
-    <span class="image"><img src="images/2025/Fall1.jpeg" alt="Augustine and Slater family" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-    <span class="image"><img src="images/2025/Fall2.jpg" alt="Fellows class" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-    <span class="image"><img src="images/2025/Fall4.jpeg" alt="College Staff" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-</div>
+
+<span class="image"><img src="images/2025/Fall1.jpeg" alt="Augustine and Slater family" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Fall2.jpg" alt="Fellows class" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Fall4.jpeg" alt="College Staff" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+
 
 ---
 
