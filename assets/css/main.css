@@ -784,9 +784,15 @@ input[type="radio"]+label:before {
   transition: transform 0.2s ease-in; /* subtle active effect */
 }
 
-/* Optional: subtle zoom on click */
-.image img:active {
-  transform: scale(1.05);
+.image img {
+  width: 100%;       /* fills container width */
+  height: auto;      /* keeps natural height */
+  object-fit: cover; /* crops nicely if needed */
+  border: 4px solid #fff;
+  border-radius: 0;
+  cursor: pointer;
+  display: block;
+  transition: transform 0.2s ease-in; /* optional zoom effect */
 }
 
 /* Left/right floated images (optional for featured images) */
