@@ -35,6 +35,8 @@ We celebrated our wedding on May 10th! It was absolutely amazing, and we felt so
     <span class="image"><img src="images/2025/Wedding8.jpeg" alt="Wedding 8" loading="eager" /></span>
 </div>
 
+---
+
 ### Lisbon, Portugal
 We honeymooned in Lisbon, Portugal, explored the beautiful city, ate incredible foods, and loved our first week being married! 
 
