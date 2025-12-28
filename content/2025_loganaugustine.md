@@ -25,10 +25,10 @@ This year was full of unforgettable memories! We planned our wedding and tied th
 
 <!-- Image placeholders -->
 <div class="image grid">
-  <span class="image"><img src="/images/2025/Summer1.jpeg" alt="photo of Logan and Emma" loading="lazy" /></span>
-  <span class="image"><img src="/images/2025/Summer2.jpeg" alt="photo of Logan and Emma at PT prom" loading="lazy" /></span>
-  <span class="image"><img src="/images/2025/Summer3.jpeg" alt="Emma and Logan at Easter" loading="lazy" /></span>
-  <span class="image"><img src="/images/2025/Summer4.jpeg" alt="Emma and Logan at Easter" loading="lazy" /></span>
+  <span class="image"><img src="/images/2025/Summer1.jpeg" alt="July 4th with family" loading="lazy" /></span>
+  <span class="image"><img src="/images/2025/Summer2.jpeg" alt="campus tour with Cam and Angela" loading="lazy" /></span>
+  <span class="image"><img src="/images/2025/Summer3.jpeg" alt="crawfish broil" loading="lazy" /></span>
+  <span class="image"><img src="/images/2025/Summer4.jpeg" alt="steaks" loading="lazy" /></span>
 </div>
 
 ---
