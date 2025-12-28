@@ -22,9 +22,10 @@ This year was full of unforgettable memories! We planned our wedding and tied th
 - Moved into our apartment in College Station
 
 <!-- Image placeholders -->
-<img src="images/may-1.jpg" alt="May photo 1" width="300">
-<img src="images/may-2.jpg" alt="May photo 2" width="300">
-<img src="images/may-3.jpg" alt="May photo 3" width="300">
+<span class="image"><img src="/images/2025/Summer1.jpeg" alt="photo of Logan and Emma" loading="lazy" /></span>
+<span class="image"><img src="/images/2025/Summer2.jpeg" alt="photo of Logan and Emma at PT prom" loading="lazy" /></span>
+<span class="image"><img src="/images/2025/Summer3.jpeg" alt="Emma and Logan at Easter" loading="lazy" /></span>
+<span class="image"><img src="/images/2025/Summer4.jpeg" alt="Emma and Logan at Easter" loading="lazy" /></span>
 
 ---
 
