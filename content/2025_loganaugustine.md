@@ -10,7 +10,7 @@ In the Spring, we were knee deep in wedding planning. Emma was finishing her sec
 <!-- Image placeholders -->
 
 <span class="image">
-  <img src="images/2025/Spring1.JPG" alt="photo of Logan and Emma" loading="lazy" style="width:70%; height:auto;" />
+  <img src="images/2025/Spring1.JPG" alt="photo of Logan and Emma" loading="lazy" style="display: block; margin: 0 auto; width: 50%; height: auto;" />
 </span>
 <span class="image">
     <img src="images/2025/Spring2.jpeg" alt="photo of Logan and Emma at Easter" loading="lazy" style="width:70%; height:auto;" />
