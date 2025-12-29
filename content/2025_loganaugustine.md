@@ -2,6 +2,8 @@
 
 This year was full of unforgettable memories! We planned our wedding and tied the knot on May 10th, moved into our College Station apartment, and have loved our first months of marraige. Emma is finishing her last year of Physical Therapy school, and Logan is wrapping up the Fellows Program, and you can read all about it right here: 
 
+<span class="image main">
+  <img src="images/2025/Spring1.JPG" alt="photo of Logan and Emma" loading="lazy" style="display: block; margin: 0 auto; width: 50%; height: auto;" /></span>
 ---
 
 ## Spring
@@ -9,8 +11,6 @@ All throughout the Spring, we were knee deep in wedding planning. Emma was finis
 
 <!-- Image placeholders -->
 
-<span class="image">
-  <img src="images/2025/Spring1.JPG" alt="photo of Logan and Emma" loading="lazy" style="display: block; margin: 0 auto; width: 50%; height: auto;" /></span>
 <span class="image">
   <img src="images/2025/Spring2.jpeg" alt="photo of Logan and Emma at Easter" loading="lazy" style="display: block; margin: 0 auto; width:50%; height:auto;" /></span>
 
