@@ -32,12 +32,16 @@ The Spring-time was busy, but we still managed to have some fun. We went to Emma
 ## Summer
 We celebrated our wedding on May 10th! It was absolutely amazing, and we felt so blessed to get to celebrate with friends and family. Check out some pictures! 
 
-
-<span class="image"><img src="images/2025/Wedding1.jpg" alt="Wedding 1" loading="lazy" style="display: block; margin: 0 auto; width:40%; height:auto;" /></span>
-<span class="image"><img src="images/2025/Wedding2.jpg" alt="Wedding 2" loading="lazy" style="display: block; margin: 0 auto; width:40%; height:auto;" /></span>
-<span class="image"><img src="images/2025/Wedding3.jpg" alt="Wedding 3" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-<span class="image"><img src="images/2025/Wedding4.jpg" alt="Wedding 4" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-<span class="image"><img src="images/2025/Wedding5.jpg" alt="Wedding 5" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+<div class="image grid">
+  <span class="image"><img src="images/2025/Wedding1.jpg" alt="Wedding 1" loading="lazy" style="display: block; margin: 0 auto; width:40%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/Wedding2.jpg" alt="Wedding 2" loading="lazy" style="display: block; margin: 0 auto; width:40%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/Wedding3.jpg" alt="Wedding 3" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/Wedding4.jpg" alt="Wedding 4" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/Wedding5.jpg" alt="Wedding 5" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/Wedding9.jpg" alt="Wedding 9" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/Wedding10.jpg" alt="Wedding 10" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/Wedding11.jpg" alt="Wedding 11" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+</div>
 
 ---
 
