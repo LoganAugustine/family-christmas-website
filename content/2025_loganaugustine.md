@@ -20,9 +20,9 @@ The Spring-time was busy, but we still managed to have some fun. We went to Emma
 
 <!-- Image placeholders -->
 
-<span class="image"><img src="images/2025/Spring3.JPEG" alt="Emma and Logan at PT Prom" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
 <span class="image left"><img src="images/2025/Wedding6.jpeg" alt="Wedding 6" loading="lazy" style="display: block; margin: 0 auto; width:30%; height:auto;" /></span>
 <span class="image right"><img src="images/2025/Wedding7.jpeg" alt="Wedding 7" loading="lazy" style="display: block; margin: 0 auto; width:30%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Spring3.JPEG" alt="Emma and Logan at PT Prom" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
 
 ---
 
