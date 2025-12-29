@@ -5,22 +5,28 @@ This year was full of unforgettable memories! We planned our wedding and tied th
 ---
 
 ## Spring
-In the Spring, we were knee deep in wedding planning. Emma was finishing her second year of Physical Therapy school at Texas State University (Round Rock), and Logan was wrapping up his first year in the Fellows Program residency at Grace Bible Church (College Station). Long distance was tough, but we worked hard during the day and prepared for the wedding at night, taking every opportunity to travel the distance and see each other on the weekends. 
+All throughout the Spring, we were knee deep in wedding planning. Emma was finishing her second year of Physical Therapy school at Texas State University (Round Rock), and Logan was wrapping up his first year in the Fellows Program residency at Grace Bible Church (College Station). Long distance was tough, but we worked hard during the day and prepared for the wedding at night, taking every opportunity to travel the distance and see each other on the weekends. Our constant prayer throughout the Spring was that God would prepare us for the beginning of our marriage and that He would surround us with Christ-like friends, and He is doing it! 
 
 <!-- Image placeholders -->
 
 <span class="image">
-  <img src="images/2025/Spring1.JPG" alt="photo of Logan and Emma" loading="lazy" style="display: block; margin: 0 auto; width: 35%; height: auto;" />
+  <img src="images/2025/Spring1.JPG" alt="photo of Logan and Emma" loading="lazy" style="display: block; margin: 0 auto; width: 50%; height: auto;" />
 </span>
 <span class="image">
-    <img src="images/2025/Spring2.jpeg" alt="photo of Logan and Emma at Easter" loading="lazy" style="display: block; margin: 0 auto; width:35%; height:auto;" />
+    <img src="images/2025/Spring2.jpeg" alt="photo of Logan and Emma at Easter" loading="lazy" style="display: block; margin: 0 auto; width:50%; height:auto;" />
 </span>
 
-Emma has loved PT school! Between classes, labs, and studying, she continued to grow in her skills and passion for helping others. It was a challenging year, but also one full of progress and accomplishments. Meanwhile, Logan completed his first year as a College Fellow at Grace Bible Church. From mentoring students to leading Bible studies, it was a year of growth, learning, and deepening relationships with college students. 
+I (Emma) have loved PT school! Between classes, labs, and studying, I've been growing in all my skills and in my passion for helping others. It was a challenging year, but also one full of progress and accomplishments. Meanwhile, I (Logan) completed my first year as a College Fellow at Grace Bible Church. I've been spending my days mentoring college students, leading Bible studies, and helping students find and follow Jesus. Both of us have been learning, growing, and deepening our relationships in our work and in our community.
+
+The Spring-time was busy, but we still managed to have some fun. We went to Emma's PT Prom, had a beautiful wedding shower, got everything prepped for our wedding, and found our first apartment in College Station.
 
 <!-- Image placeholders -->
 
 <span class="image"><img src="images/2025/Spring3.JPEG" alt="Emma and Logan at PT Prom" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Wedding6.jpeg" alt="Wedding 6" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Wedding7.jpeg" alt="Wedding 7" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+<span class="image"><img src="images/2025/Wedding8.jpeg" alt="Wedding 8" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+
 
 
 ---
@@ -34,10 +40,6 @@ We celebrated our wedding on May 10th! It was absolutely amazing, and we felt so
 <span class="image"><img src="images/2025/Wedding3.jpg" alt="Wedding 3" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
 <span class="image"><img src="images/2025/Wedding4.jpg" alt="Wedding 4" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
 <span class="image"><img src="images/2025/Wedding5.jpg" alt="Wedding 5" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-<span class="image"><img src="images/2025/Wedding6.jpeg" alt="Wedding 6" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-<span class="image"><img src="images/2025/Wedding7.jpeg" alt="Wedding 7" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-<span class="image"><img src="images/2025/Wedding8.jpeg" alt="Wedding 8" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-
 
 ---
 
@@ -53,7 +55,7 @@ We honeymooned in Lisbon, Portugal, explored the beautiful city, ate incredible 
 
 ---
 
-After the wedding, we moved in to our apartment in College Station and Emma started her 3rd year. She'll do four residencies at clinics around College Station, learning and practicing therapudic skills and discovering what type of PT she wants to pursue in the future. She will finish and graduate in May 2026, and then work as a DPT. 
+After the wedding, we moved in to our apartment in College Station and Emma started her 3rd year. She'll do four residencies at clinics around College Station, learning and practicing therapeutic skills and discovering what type of PT she wants to pursue in the future. She will finish and graduate in May 2026, and then work as a DPT. 
 
 We also spent time during the summer going on lake trips with our family, exploring crawfish broils in small Texas towns, and cooking great foods!
 
