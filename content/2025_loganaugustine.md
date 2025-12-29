@@ -10,29 +10,24 @@ All throughout the Spring, we were knee deep in wedding planning. Emma was finis
 <!-- Image placeholders -->
 
 <span class="image">
-  <img src="images/2025/Spring1.JPG" alt="photo of Logan and Emma" loading="lazy" style="display: block; margin: 0 auto; width: 50%; height: auto;" />
-</span>
+  <img src="images/2025/Spring1.JPG" alt="photo of Logan and Emma" loading="lazy" style="display: block; margin: 0 auto; width: 50%; height: auto;" /></span>
 <span class="image">
-    <img src="images/2025/Spring2.jpeg" alt="photo of Logan and Emma at Easter" loading="lazy" style="display: block; margin: 0 auto; width:50%; height:auto;" />
-</span>
+  <img src="images/2025/Spring2.jpeg" alt="photo of Logan and Emma at Easter" loading="lazy" style="display: block; margin: 0 auto; width:50%; height:auto;" /></span>
 
 I (Emma) have loved PT school! Between classes, labs, and studying, I've been growing in all my skills and in my passion for helping others. It was a challenging year, but also one full of progress and accomplishments. Meanwhile, I (Logan) completed my first year as a College Fellow at Grace Bible Church. I've been spending my days mentoring college students, leading Bible studies, and helping students find and follow Jesus. Both of us have been learning, growing, and deepening our relationships in our work and in our community.
 
-The Spring-time was busy, but we still managed to have some fun. We went to Emma's PT Prom, had a beautiful wedding shower, got everything prepped for our wedding, and found our first apartment in College Station.
+The Spring-time was busy, but we still managed to have some fun. We went to Emma's PT Prom, had a beautiful wedding shower, and got everything prepped for our wedding. 
 
 <!-- Image placeholders -->
 
 <span class="image"><img src="images/2025/Spring3.JPEG" alt="Emma and Logan at PT Prom" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
 <span class="image"><img src="images/2025/Wedding6.jpeg" alt="Wedding 6" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
 <span class="image"><img src="images/2025/Wedding7.jpeg" alt="Wedding 7" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-<span class="image"><img src="images/2025/Wedding8.jpeg" alt="Wedding 8" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-
-
 
 ---
 
 ## Summer
-We celebrated our wedding on May 10th! It was absolutely amazing, and we felt so blessed to get to celebrate with friends and family. 
+We celebrated our wedding on May 10th! It was absolutely amazing, and we felt so blessed to get to celebrate with friends and family. Check out some pictures! 
 
 
 <span class="image"><img src="images/2025/Wedding1.jpg" alt="Wedding 1" loading="lazy" style="display: block; margin: 0 auto; width:40%; height:auto;" /></span>
@@ -44,7 +39,7 @@ We celebrated our wedding on May 10th! It was absolutely amazing, and we felt so
 ---
 
 ### Lisbon, Portugal
-We honeymooned in Lisbon, Portugal, explored the beautiful city, ate incredible foods, and loved our first week being married! 
+We honeymooned in Lisbon, Portugal, and explored the beautiful city. It was *INCREDIBLE*.
 
 
 <span class="image"><img src="images/2025/HM1.jpg" alt="Honeymoon1" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
@@ -57,19 +52,19 @@ We honeymooned in Lisbon, Portugal, explored the beautiful city, ate incredible 
 
 After the wedding, we moved in to our apartment in College Station and Emma started her 3rd year. She'll do four residencies at clinics around College Station, learning and practicing therapeutic skills and discovering what type of PT she wants to pursue in the future. She will finish and graduate in May 2026, and then work as a DPT. 
 
-We also spent time during the summer going on lake trips with our family, exploring crawfish broils in small Texas towns, and cooking great foods!
+We also spent time during the summer going on lake trips with our family, exploring crawfish broils in small Texas towns, and cooking great foods! 
 
 <!-- Image placeholders -->
+<span class="image"><img src="images/2025/Wedding8.jpeg" alt="Apartment" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
 <span class="image"><img src="images/2025/Fall3.jpeg" alt="Emma clinicals" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
 <span class="image"><img src="images/2025/Summer1.jpeg" alt="July 4th with family" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
 <span class="image"><img src="images/2025/Summer2.jpeg" alt="crawfish broil" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
 <span class="image"><img src="images/2025/Summer3.jpeg" alt="steaks" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
 
-
 ---
 
 ## Fall
-In August, Logan's semester came in full force with college students returning to Texas A&M. The college ministry at Grace Bible Church is full of amazing students, and part of Logan's job is coaching leaders in the college ministry to help other students find and follow Jesus.
+In August, Logan's semester came in full force with college students returning to Texas A&M. The college ministry at Grace Bible Church is full of amazing students, and part of my job is coaching leaders in the college ministry to help other students find and follow Jesus. If you don't know about what I get to do as a Fellow at Grace, 
 
 Also, Logan has been working on his Masters of Theology at Dallas Theological Seminary and he's loving it! He's taking classes in Biblical studies and leadership, and he’s excited to apply what he’s learning to job and daily life.
 
