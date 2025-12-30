@@ -44,7 +44,7 @@ We celebrated our wedding on May 10th! It was absolutely amazing, and we felt so
 ---
 
 ### Lisbon, Portugal
-We honeymooned in Lisbon, Portugal, and explored the beautiful city. It was *INCREDIBLE*.
+We honeymooned in Lisbon, Portugal, and just took the chance to roam around the beautiful city. It was *INCREDIBLE*.
 
 
 <span class="image"><img src="images/2025/HM1.jpg" alt="Honeymoon1" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
