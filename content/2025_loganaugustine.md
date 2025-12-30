@@ -47,11 +47,11 @@ We celebrated our wedding on May 10th! It was absolutely amazing, and we felt so
 We honeymooned in Lisbon, Portugal, and just took the chance to roam around the beautiful city. It was *INCREDIBLE*.
 
 <div class="image grid">
-  <span class="image"><img src="images/2025/HM1.jpg" alt="Honeymoon1" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-  <span class="image"><img src="images/2025/HM2.jpg" alt="Honeymoon2" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-  <span class="image"><img src="images/2025/HM3.jpg" alt="Honeymoon3" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-  <span class="image"><img src="images/2025/HM4.jpeg" alt="Honeymoon4" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-  <span class="image"><img src="images/2025/HM5.jpeg" alt="Honeymoon5" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/HM1.jpg" alt="Honeymoon1" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/HM2.jpg" alt="Honeymoon2" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/HM3.jpg" alt="Honeymoon3" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/HM4.jpeg" alt="Honeymoon4" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/HM5.jpeg" alt="Honeymoon5" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
 </div>
 
 ---
