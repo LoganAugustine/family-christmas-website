@@ -12,7 +12,7 @@ This year was full of unforgettable memories! We planned our wedding, tied the k
 ## Spring
 
 <span class="image right">
-  <img src="images/2025/Spring2.jpeg" alt="photo of Logan and Emma at Easter" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
+  <img src="images/2025/Spring2.jpeg" alt="photo of Logan and Emma at Easter" loading="lazy" style="display: block; margin: 0 auto; width:85%; height:auto;" /></span>
 
 All throughout the Spring, we were knee deep in wedding planning. Emma was finishing her second year of Physical Therapy school at Texas State University (Round Rock), and Logan was wrapping up his first year in the Fellows Program residency at Grace Bible Church (College Station). Long distance was tough, but we worked hard during the day and prepared for the wedding at night, taking every opportunity to travel the distance and see each other on the weekends. Our constant prayer throughout the Spring was that God would prepare us for the beginning of our marriage and that He would surround us with Christ-like friends, and He is doing it! 
 
