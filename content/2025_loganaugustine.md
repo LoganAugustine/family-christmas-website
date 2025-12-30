@@ -34,7 +34,7 @@ We celebrated our wedding on May 10th! It was absolutely amazing, and we felt so
 
 <div class="image grid">
   <span class="image"><img src="images/2025/Wedding1.jpg" alt="Wedding 1P" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
-  <span class="image"><img src="images/2025/Wedding2.jpeg" alt="Wedding 2P" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/Wedding2.jpg" alt="Wedding 2P" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
   <span class="image"><img src="images/2025/Wedding10.jpg" alt="Wedding 10P" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
   <span class="image"><img src="images/2025/Wedding4.jpg" alt="Wedding 4L" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
   <span class="image"><img src="images/2025/Wedding3.jpg" alt="Wedding 3L" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
