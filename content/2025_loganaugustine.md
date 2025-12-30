@@ -10,20 +10,20 @@ This year was full of unforgettable memories! We planned our wedding, tied the k
 ---
 
 ## Spring
-All throughout the Spring, we were knee deep in wedding planning. Emma was finishing her second year of Physical Therapy school at Texas State University (Round Rock), and Logan was wrapping up his first year in the Fellows Program residency at Grace Bible Church (College Station). Long distance was tough, but we worked hard during the day and prepared for the wedding at night, taking every opportunity to travel the distance and see each other on the weekends. Our constant prayer throughout the Spring was that God would prepare us for the beginning of our marriage and that He would surround us with Christ-like friends, and He is doing it! 
-
-<!-- Image placeholders -->
 
 <span class="image left">
   <img src="images/2025/Spring2.jpeg" alt="photo of Logan and Emma at Easter" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
 
+All throughout the Spring, we were knee deep in wedding planning. Emma was finishing her second year of Physical Therapy school at Texas State University (Round Rock), and Logan was wrapping up his first year in the Fellows Program residency at Grace Bible Church (College Station). Long distance was tough, but we worked hard during the day and prepared for the wedding at night, taking every opportunity to travel the distance and see each other on the weekends. Our constant prayer throughout the Spring was that God would prepare us for the beginning of our marriage and that He would surround us with Christ-like friends, and He is doing it! 
+
 I (Emma) have loved PT school! Between classes, labs, and studying, I've been growing in all my skills and in my passion for helping others. It was a challenging year, but also one full of progress and accomplishments. Meanwhile, I (Logan) completed my first year as a College Fellow at Grace Bible Church. I've been spending my days mentoring college students, leading Bible studies, and helping students find and follow Jesus. Both of us have been learning, growing, and deepening our relationships in our work and in our community.
+
+<span class="image right"><img src="images/2025/Wedding6.jpeg" alt="Wedding 6" loading="lazy" style="display: block; margin: 0 auto; width:50%; height:auto;" /></span>
 
 The Spring-time was busy, but we still managed to have some fun. We went to Emma's PT Prom, had a beautiful wedding shower, and got everything prepped for our wedding. 
 
 <!-- Image placeholders -->
 
-<span class="image"><img src="images/2025/Wedding6.jpeg" alt="Wedding 6" loading="lazy" style="display: block; margin: 0 auto; width:50%; height:auto;" /></span>
 <span class="image"><img src="images/2025/Wedding7.jpeg" alt="Wedding 7" loading="lazy" style="display: block; margin: 0 auto; width:50%; height:auto;" /></span>
 <span class="image"><img src="images/2025/Spring3.JPEG" alt="Emma and Logan at PT Prom" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
 
