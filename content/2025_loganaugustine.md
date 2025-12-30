@@ -18,7 +18,7 @@ All throughout the Spring, we were knee deep in wedding planning. Emma was finis
 
 I (Emma) have loved PT school! Between classes, labs, and studying, I've been growing in all my skills and in my passion for helping others. It was a challenging year, but also one full of progress and accomplishments. Meanwhile, I (Logan) completed my first year as a College Fellow at Grace Bible Church. I've been spending my days mentoring college students, leading Bible studies, and helping students find and follow Jesus. Both of us have been learning, growing, and deepening our relationships in our work and in our community.
 
-<span class="image left"><img src="images/2025/Wedding7.jpeg" alt="Marriage License" loading="lazy" style="display: block; margin: 0 auto; width:50%; height:auto;" /></span>
+<span class="image left"><img src="images/2025/Wedding7.jpeg" alt="Marriage License" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
 
 The Spring-time was busy, but we still managed to have some fun. We went to Emma's PT Prom, had a beautiful wedding shower, and got everything prepped for our wedding. 
 
