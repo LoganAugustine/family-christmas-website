@@ -3,7 +3,7 @@
 ---
 
 <span class="image main">
-  <img src="images/2025/Spring1.JPG" alt="photo of Logan and Emma" loading="lazy" style="display: block; margin: 0 auto; width: 50%; height: auto;" /></span>
+  <img src="images/2025/Spring1.JPG" alt="photo of Logan and Emma" loading="lazy" style="display: block; margin: 0 auto; width: 75%; height: auto;" /></span>
   
 This year was unforgettable! We planned a rocking wedding, tied the knot on May 10th, moved into our apartment in College Station, and have loved our first months of marriage. Emma is finishing her last year of Physical Therapy school, and Logan is wrapping up the Fellows Program, and you can read all about it right here: 
 
@@ -81,10 +81,11 @@ I've also been working on my Masters of Theology at Dallas Theological Seminary 
 
 <!-- Image placeholders -->
 
-<span class="image"><img src="images/2025/Fall1.jpeg" alt="Augustine and Slater family" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-<span class="image"><img src="images/2025/Fall2.jpg" alt="Fellows class" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-<span class="image"><img src="images/2025/Fall4.jpeg" alt="College Staff" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-
+<div class="image grid">
+  <span class="image"><img src="images/2025/Fall1.jpeg" alt="Augustine and Slater family" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/Fall2.jpg" alt="Fellows class" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/Fall4.jpeg" alt="College Staff" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+</div>
 
 ---
 
