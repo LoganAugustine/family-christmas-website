@@ -82,9 +82,9 @@ I've also been working on my Masters of Theology at Dallas Theological Seminary 
 <!-- Image placeholders -->
 
 <div class="image grid">
-  <span class="image"><img src="images/2025/Fall1.jpeg" alt="Augustine and Slater family" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-  <span class="image"><img src="images/2025/Fall2.jpg" alt="Fellows class" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
-  <span class="image"><img src="images/2025/Fall4.jpeg" alt="College Staff" loading="lazy" style="display: block; margin: 0 auto; width:70%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/Fall1.jpeg" alt="Augustine and Slater family" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/Fall2.jpg" alt="Fellows class" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
+  <span class="image"><img src="images/2025/Fall4.jpeg" alt="College Staff" loading="lazy" style="display: block; margin: 0 auto; width:100%; height:auto;" /></span>
 </div>
 
 ---
