@@ -1,6 +1,6 @@
 # Jekyll configuration for GitHub Pages
-name: Augustine Family New Year
-description: New Year Update
+name: McKenna Family Christmas
+description: Annual Christmas card from the McKenna family
 
 # GitHub Pages uses Jekyll 3.9+ with safe mode
 # This config ensures compatibility
@@ -19,4 +19,3 @@ exclude:
   - LICENSE
   - .gitignore
   - CLAUDE.md
-
